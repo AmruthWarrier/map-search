@@ -1,0 +1,99 @@
+[
+    {
+      "eventName": "NextTec",
+      "description": "E Block (progamming lab)",
+      "building": "eBlock"
+    },
+    {
+      "eventName": "Robot fight",
+      "description": "K Block - ground floor",
+      "building": "kBlock"
+    },
+    {
+      "eventName": "Fashion stiching",
+      "description": "G Block (1st floor)",
+      "building": "gBlock"
+    },
+    {
+      "eventName": "Coding club",
+      "description": "J Block (J-201)",
+      "building": "jBlock"
+    },
+    {
+      "eventName": "Sandwich games",
+      "description": "I Block - ground floor",
+      "building": "iBlock"
+    },
+    {
+      "eventName": "A Block",
+      "description": "A Block",
+      "building": "aBlock"
+    },
+    {
+      "eventName": "B Block",
+      "description": "B Block",
+      "building": "bBlock"
+    },
+    {
+      "eventName": "C Block",
+      "description": "C Block",
+      "building": "cBlock"
+    },
+    {
+      "eventName": "D Block",
+      "description": "D Block",
+      "building": "dBlock"
+    },
+    {
+      "eventName": "E Block",
+      "description": "E Block",
+      "building": "eBlock"
+    },
+    {
+      "eventName": "F Block",
+      "description": "F Block",
+      "building": "fBlock"
+    },
+    {
+      "eventName": "G Block",
+      "description": "G Block",
+      "building": "gBlock"
+    },
+    {
+      "eventName": "H Block",
+      "description": "H Block",
+      "building": "hBlock"
+    },
+    {
+      "eventName": "I Block",
+      "description": "I Block",
+      "building": "iBlock"
+    },
+    {
+      "eventName": "J Block",
+      "description": "J Block",
+      "building": "jBlock"
+    },
+    {
+      "eventName": "K Block",
+      "description": "K Block",
+      "building": "kBlock"
+    },
+    {
+      "eventName": "L Block",
+      "description": "L Block",
+      "building": "lBlock"
+    },
+    {
+      "eventName": "M Block",
+      "description": "M Block",
+      "building": "mBlock"
+    },
+    {
+      "eventName": "N Block",
+      "description": "N Block",
+      "building": "nBlock"
+    }
+  
+  
+]
